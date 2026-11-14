@@ -1,2 +1,2 @@
-# releases.mirror.by-name.user5783256.com
-我的软件镜像
+# Software-Mirror
+一些小软件的镜像
